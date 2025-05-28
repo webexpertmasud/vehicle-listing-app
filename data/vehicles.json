@@ -1,0 +1,23 @@
+[
+    {
+        "id": "veh001",
+        "name": "Toyota Corolla",
+        "type": "Sedan",
+        "price": "20000",
+        "image": "corolla.jpg"
+    },
+    {
+        "id": "veh002",
+        "name": "Honda CR-V",
+        "type": "SUV",
+        "price": "30000",
+        "image": "crv.jpg"
+    },
+    {
+        "name": "Toyota Corolla",
+        "type": "corrolla",
+        "price": "52000",
+        "image": "bike1.jpg",
+        "id": "6835e55c12e9e"
+    }
+]
